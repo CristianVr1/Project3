@@ -1,0 +1,70 @@
+html {
+  background-image: linear-gradient(rgb(200, 209, 200), rgb(40, 204, 40));
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: antiquewhite;
+}
+#Banner-page {
+  padding: 5px;
+  text-align: center;
+  font-size: xx-large;
+  font-weight: 900;
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+  color: antiquewhite;
+}
+.header-bar {
+  text-align: center;
+  font-size: x-large;
+  padding: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+a {
+  color: rgb(247, 233, 47);
+  padding: 15px;
+}
+#home-page {
+  color: antiquewhite;
+  text-align: center;
+  padding: auto;
+}
+#product-page {
+  text-align: center;
+  padding: 20px;
+
+}
+h2 {
+  text-align: center;
+  color: antiquewhite;
+  font-size: x-large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+table{
+    margin: auto;
+}
+td{
+    margin: auto;
+    padding: 5px;
+}
+th{
+    text-align: center;
+    font-size: x-large;
+    padding: 15px;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    padding: 15px;
+}
+#contact-page{
+    text-align: center;
+    padding: 10px;
+
+
+}
+#end-page{
+    background-color: #7bec70;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
